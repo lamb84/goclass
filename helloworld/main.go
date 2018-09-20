@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
-	fmt.Println("hi there")
+	cards := newDeck()
+	fmt.Println(cards.toString())
 }
