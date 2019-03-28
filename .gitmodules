@@ -1,0 +1,6 @@
+[submodule "vendor/net"]
+	path = vendor/net
+	url = https://github.com/golang/net.git
+[submodule "vendor/golang/x/net"]
+	path = vendor/golang/x/net
+	url = https://github.com/golang/net.git
